@@ -55,3 +55,11 @@
     }
   }
   
+
+  .center{
+    text-align: center;
+  }
+
+  .orderInfo-message{
+    display: none;
+  }
